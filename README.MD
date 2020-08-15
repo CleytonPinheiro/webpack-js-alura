@@ -2,12 +2,12 @@
 
 Webpack: Manipulando módulos na sua webapp.
 
-=> Aprenda o module bundler mais popular do mercado.
-=> Diferencie o build de desenvolvimento do build de produção.
-=> Aprenda a aplicar técnicas como o lazy loading e o code splitting.
-=> Seja mais produtivo como Webpack Dev Server.
-=> Separe sua aplicação em diferentes bundles.
-=> Aplique na prática as boas práticas seguidas pela comunidade.
+ - Trabalhando o module bundler mais popular do mercado.
+ - Diferencie o build de desenvolvimento do build de produção.
+ - Aprenda a aplicar técnicas como o lazy loading e o code splitting.
+ - Seja mais produtivo como Webpack Dev Server.
+ - Separe sua aplicação em diferentes bundles.
+ - Aplique na prática as boas práticas seguidas pela comunidade.
 
 ---
 
@@ -36,20 +36,27 @@ Plataforma Alura.com
 
 ## 🗂 Como baixar o projeto
 
-```bash
+```sh
 
     # Clonar o repositório
     $ git clone https://github.com/CleytonPinheiro/webpack-js-alura
+```
 
+```sh
     # Entrar no diretório
     $ na raiz do projeto
+```
 
+```sh
      #Instalar as dependências usados no projeto
      $ npm install
+```
 
+```sh
     #Subir o servidor local, digitando o comando:
     $ npm start
 
+```sh
     # Iniciar o projeto
     $ abrir no navegador: localhost:3000
 ```
